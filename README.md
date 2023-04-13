@@ -15,6 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### ⚡️ A Few Quick Facts
+
+<img align="left" src="https://github-readme-stats-i.vercel.app/api?username=imnxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+
+<!-- <ul>
+    <li> 🌱 I’m currently learning Go、Docker、Kubernetes.</li>
+    <li> 👯 I’m looking to collaborate on anything open source.</li>
+    <li> 📝 I regulary write articles on <a href="https://dmego.cn">https://dmego.cn</a>.</li>
+    <li> ⚡ Fun fact: I ❤️ 😻.</li>
+</ul> -->
+
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2050%20mins-blue)
