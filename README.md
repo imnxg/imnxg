@@ -28,69 +28,54 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C177%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2017%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1274-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67.3%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 182.8 kB Used in GitHub's Storage 
+> 📦 239.1 kB Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2023
+> 🏆 160 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 21 Public Repositories 
+> 📜 39 Public Repositories 
  > 
-> 🔑 23 Private Repositories 
+> 🔑 4 Private Repositories 
  > 
-**🐱 My GitHub Data** 
-
-> 🏆 151 Contributions in the Year 2023
- > 
-> 📦 222.0 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 27 Public Repositories 
- > 
-> 🔑 11 Private Repositories  
- > 
-**I'm an Early 🐤** 
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    67 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
-🌆 Daytime    239 commits    ████████████░░░░░░░░░░░░░   50.96% 
-🌃 Evening    103 commits    █████░░░░░░░░░░░░░░░░░░░░   21.96% 
-🌙 Night      60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79%
-
+🌞 Morning                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.70 % 
+🌆 Daytime                68 commits          ████████████░░░░░░░░░░░░░   47.55 % 
+🌃 Evening                41 commits          ███████░░░░░░░░░░░░░░░░░░   28.67 % 
+🌙 Night                  33 commits          ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Asia/Shanghai
+🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     5 hrs 26 mins       ██████████████████░░░░░░░   72.22% 
-XML                      1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.47% 
-HTTP Request             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.23% 
-YAML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.75% 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.66%
+YAML                     1 hr 25 mins        ██████████████░░░░░░░░░░░   55.38 % 
+Markdown                 39 mins             ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+Java                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+HTML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+JavaScript               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.79 % 
 
 🔥 Editors: 
-IntelliJ                 7 hrs 31 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 10 mins       █████████████████████░░░░   84.97 % 
+IntelliJ                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
 
 💻 Operating System: 
-Mac                      7 hrs 31 mins       █████████████████████████   100.0%
-
+Windows                  2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/04/2023 08:25:43 UTC
+ Last Updated on 14/04/2023 08:12:41 UTC
 <!--END_SECTION:waka-->
 
 ---
