@@ -78,13 +78,14 @@ Windows                  8 hrs 57 mins       ███████████�
 
  Last Updated on 26/04/2023 08:12:58 UTC
 <!--END_SECTION:waka-->
-<!--
----
 
+---
+<!--
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="50%">    -->
 <!-- waka-box start -->
+<!--
 #### <a href="https://gist.github.com/01acb8c86000072f1e040b2a7757e8e5" target="_blank">📊 Weekly development breakdown</a>
 ```text
 Go              🕓 32h17m ████████████████████▎░ 92.2%
@@ -93,13 +94,13 @@ Other           🕓 52m    ▌░░░░░░░░░░░░░░░░�
 PHP             🕓 23m    ▏░░░░░░░░░░░░░░░░░░░░░  1.1%
 CSV             🕓 7m     ░░░░░░░░░░░░░░░░░░░░░░  0.4%
 ```
-
+  -->
 
 <!-- Powered by https://github.com/YouEclipse/waka-box-go . -->
 <!-- waka-box end -->
 
 <!-- [powered by waka-box-go](https://github.com/YouEclipse/waka-box-go) -->
-
+<!--
 </td>
 <td valign="top" width="50%">
     -->
