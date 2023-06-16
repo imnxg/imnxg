@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-141%20hrs%2052%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.0%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-474.9%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 302.8 kB Used in GitHub's Storage 
+> 📦 302.9 kB Used in GitHub's Storage 
  > 
 > 🏆 299 Contributions in the Year 2023
  > 
@@ -60,22 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.40 % 
-TypeScript               4 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.52 % 
-Markdown                 2 hrs 54 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.12 % 
-HTML                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-CSS                      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+JavaScript               4 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   23.98 % 
+TypeScript               4 hrs               █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
+Markdown                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+HTML                     2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+CSS                      1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 51 mins      ██████████████████████░░░   86.79 % 
-Eclipse                  2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+VS Code                  17 hrs 5 mins       █████████████████████░░░░   85.30 % 
+Eclipse                  2 hrs 56 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
 
 💻 Operating System: 
-Windows                  20 hrs 34 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/06/2023 08:12:58 UTC
+ Last Updated on 16/06/2023 08:12:51 UTC
 <!--END_SECTION:waka-->
 
 ---
