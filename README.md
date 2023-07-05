@@ -60,20 +60,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-EJS                      19 mins             █████████████░░░░░░░░░░░░   52.96 % 
-Markdown                 15 mins             ███████████░░░░░░░░░░░░░░   44.47 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  35 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 04/07/2023 08:14:58 UTC
+ Last Updated on 05/07/2023 08:15:42 UTC
 <!--END_SECTION:waka-->
 
 ---
