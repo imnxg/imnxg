@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-157%20hrs%2010%20mins-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-473.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-475.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
@@ -60,17 +60,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+GitIgnore file           10 mins             █████████████████████████   98.90 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ                 10 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  10 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/07/2023 08:14:32 UTC
+ Last Updated on 08/07/2023 08:13:17 UTC
 <!--END_SECTION:waka-->
 
 ---
