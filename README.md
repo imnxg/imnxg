@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-162%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-168%20hrs%2026%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-475.7%20thousand%20lines%20of%20code-blue)
 
@@ -36,13 +36,13 @@ Here are some ideas to get you started:
 
 > 📦 308.7 kB Used in GitHub's Storage 
  > 
-> 🏆 317 Contributions in the Year 2023
+> 🏆 357 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 66 Public Repositories 
+> 📜 68 Public Repositories 
  > 
-> 🔑 8 Private Repositories 
+> 🔑 7 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -60,22 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     3 hrs 43 mins       ████████░░░░░░░░░░░░░░░░░   33.15 % 
-Markdown                 3 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.49 % 
-XML                      2 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   23.86 % 
-YAML                     44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+Java                     4 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   34.24 % 
+Markdown                 3 hrs 58 mins       ████████░░░░░░░░░░░░░░░░░   31.20 % 
+XML                      2 hrs 57 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
+YAML                     46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.09 % 
+TypeScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 
 🔥 Editors: 
-IntelliJ                 10 hrs 37 mins      ████████████████████████░   94.37 % 
-VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+IntelliJ                 11 hrs 50 mins      ███████████████████████░░   92.83 % 
+VS Code                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 💻 Operating System: 
-Windows                  11 hrs 15 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 45 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 15/07/2023 08:13:45 UTC
+ Last Updated on 16/07/2023 08:13:24 UTC
 <!--END_SECTION:waka-->
 
 ---
