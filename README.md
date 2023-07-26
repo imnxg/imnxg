@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### ⚡️ A Few Quick Facts
 
-<img align="left" src="https://github-readme-stats-i.vercel.app/api?username=imnxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
+<img align="left" src="https://star.mynxg.eu.org/api?username=imnxg&show_icons=true&icon_color=1573B3&hide_title=true&text_color=718096&bg_color=00000000&hide_border=true"/>
 
 <!-- <ul>
     <li> 🌱 I’m currently learning Go、Docker、Kubernetes.</li>
