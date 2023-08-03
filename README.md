@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-477.0%20thousand%20lines%20of%20code-blue)
 
@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 > 📦 308.8 kB Used in GitHub's Storage 
  > 
-> 🏆 361 Contributions in the Year 2023
+> 🏆 362 Contributions in the Year 2023
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 70 Public Repositories 
+> 📜 71 Public Repositories 
  > 
 > 🔑 7 Private Repositories 
  > 
@@ -60,21 +60,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     4 hrs 36 mins       █████████████████████░░░░   82.29 % 
-XML                      37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
-SQL                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-YAML                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Java                     5 hrs 48 mins       █████████████████████░░░░   83.31 % 
+XML                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
+Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
+SQL                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+CLASS                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-IntelliJ                 5 hrs 36 mins       █████████████████████████   100.00 % 
+IntelliJ                 6 hrs 57 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 36 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/08/2023 08:12:40 UTC
+ Last Updated on 03/08/2023 08:12:46 UTC
 <!--END_SECTION:waka-->
 
 ---
