@@ -34,15 +34,15 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 308.8 kB Used in GitHub's Storage 
+> 📦 308.8 kB Used in GitHub's Storage. 
  > 
-> 🏆 362 Contributions in the Year 2023
+> 🏆 362 Contributions in the Year 2023.
  > 
-> 🚫 Not Opted to Hire
+> 🚫 Not Opted to Hire.
  > 
-> 📜 71 Public Repositories 
+> 📜 71 Public Repositories .
  > 
-> 🔑 7 Private Repositories 
+> 🔑 7 Private Repositories .
  > 
 **I'm a Night 🦉** 
 
