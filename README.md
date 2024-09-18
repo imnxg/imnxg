@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 > 📦 315.1 kB Used in GitHub's Storage 
  > 
-> 🏆 294 Contributions in the Year 2024
+> 🏆 295 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,21 +60,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 15 mins             ████████████████░░░░░░░░░   62.87 % 
-JSON                     7 mins              ████████░░░░░░░░░░░░░░░░░   30.38 % 
-Git Config               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-JavaScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/09/2024 08:18:58 UTC
+ Last Updated on 18/09/2024 08:17:27 UTC
 <!--END_SECTION:waka-->
 
 ---
