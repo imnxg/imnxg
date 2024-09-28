@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 315.0 kB Used in GitHub's Storage 
+> 📦 314.7 kB Used in GitHub's Storage 
  > 
-> 🏆 306 Contributions in the Year 2024
+> 🏆 307 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,17 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+XML                      1 hr 1 min          ███████████░░░░░░░░░░░░░░   45.33 % 
+Java                     30 mins             ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
+Vue.js                   20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
+GitIgnore file           7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
+SQL                      6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 55 mins        █████████████████████░░░░   84.83 % 
+VS Code                  20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/09/2024 08:18:52 UTC
+ Last Updated on 28/09/2024 08:17:37 UTC
 <!--END_SECTION:waka-->
 
 ---
