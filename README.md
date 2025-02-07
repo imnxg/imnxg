@@ -60,17 +60,18 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 hr 1 min          ████████████████████████░   94.16 % 
+Markdown                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            1 hr 5 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/02/2025 08:20:18 UTC
+ Last Updated on 07/02/2025 08:19:31 UTC
 <!--END_SECTION:waka-->
 
 ---
