@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-860%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-453.1%20thousand%20lines%20of%20code-blue)
 
@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 > 📦 420.5 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2025
+> 🏆 9 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 126 Public Repositories 
+> 📜 127 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -60,22 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Java                     2 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.01 % 
-TypeScript               1 hr 43 mins        ██████░░░░░░░░░░░░░░░░░░░   24.43 % 
-XML                      1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-YAML                     1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
-Markdown                 16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+TypeScript               1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   29.50 % 
+Java                     1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   27.62 % 
+XML                      1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
+YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
 
 🔥 Editors: 
-IntelliJ IDEA            7 hrs               █████████████████████████   99.51 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+IntelliJ IDEA            5 hrs 26 mins       ████████████████████████░   96.34 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 Operating System: 
-Windows                  7 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/03/2025 08:22:24 UTC
+ Last Updated on 04/03/2025 08:19:00 UTC
 <!--END_SECTION:waka-->
 
 ---
