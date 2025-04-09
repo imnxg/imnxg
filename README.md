@@ -36,8 +36,6 @@ Here are some ideas to get you started:
 
 > 📦 533.5 kB Used in GitHub's Storage 
  > 
-> 🏆 12 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 130 Public Repositories 
@@ -60,17 +58,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 1 hr 27 mins        █████████████████████████   100.00 % 
+Markdown                 2 hrs 11 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Cursor                   1 hr 27 mins        █████████████████████████   100.00 % 
+Cursor                   2 hrs 11 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 27 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 11 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 08/04/2025 08:22:53 UTC
+ Last Updated on 09/04/2025 08:23:48 UTC
 <!--END_SECTION:waka-->
 
 ---
