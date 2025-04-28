@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 533.5 kB Used in GitHub's Storage 
+> 📦 533.6 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2025
  > 
@@ -60,17 +60,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               11 mins             ██████████████████████░░░   89.63 % 
+textmate                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Markdown                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+IntelliJ IDEA            13 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  13 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 27/04/2025 08:19:50 UTC
+ Last Updated on 28/04/2025 09:00:22 UTC
 <!--END_SECTION:waka-->
 
 ---
