@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2054%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-455.7%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 533.7 kB Used in GitHub's Storage 
+> 📦 533.8 kB Used in GitHub's Storage 
  > 
 > 🏆 15 Contributions in the Year 2025
  > 
@@ -60,21 +60,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 25 mins        ███████████████████░░░░░░   75.54 % 
-JavaScript               20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.40 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
+TypeScript               1 hr 25 mins        █████████████████████░░░░   85.55 % 
+JavaScript               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Markdown                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+Java                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 53 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            1 hr 39 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 53 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 39 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/05/2025 08:20:00 UTC
+ Last Updated on 05/05/2025 08:23:29 UTC
 <!--END_SECTION:waka-->
 
 ---
