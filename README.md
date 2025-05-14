@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2054%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-881%20hrs%2055%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-455.7%20thousand%20lines%20of%20code-blue)
 
@@ -60,19 +60,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 min               ██████████████████░░░░░░░   72.67 % 
-JavaScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-JSON                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+JavaScript               18 mins             ████████████████████░░░░░   79.12 % 
+TypeScript               4 mins              █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 min               █████████████████████████   100.00 % 
+IntelliJ IDEA            23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 min               █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/05/2025 08:23:26 UTC
+ Last Updated on 14/05/2025 08:23:25 UTC
 <!--END_SECTION:waka-->
 
 ---
