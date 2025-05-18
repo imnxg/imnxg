@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-882%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-883%20hrs%2023%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-455.7%20thousand%20lines%20of%20code-blue)
 
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 > 📦 534.0 kB Used in GitHub's Storage 
  > 
-> 🏆 15 Contributions in the Year 2025
+> 🏆 21 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,21 +60,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               41 mins             ████████████░░░░░░░░░░░░░   47.19 % 
-JavaScript               39 mins             ███████████░░░░░░░░░░░░░░   44.73 % 
-CSS                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+TypeScript               1 hr                ████████████░░░░░░░░░░░░░   47.95 % 
+JavaScript               49 mins             ██████████░░░░░░░░░░░░░░░   39.21 % 
+Text                     9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+CSS                      7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-IntelliJ IDEA            1 hr 28 mins        █████████████████████████   100.00 % 
+IntelliJ IDEA            2 hrs 6 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 28 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 17/05/2025 08:20:37 UTC
+ Last Updated on 18/05/2025 08:20:00 UTC
 <!--END_SECTION:waka-->
 
 ---
