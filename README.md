@@ -60,19 +60,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     0 secs              ███████████████░░░░░░░░░░   58.19 % 
-Markdown                 0 secs              ██████████░░░░░░░░░░░░░░░   38.06 % 
-GitIgnore file           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-IntelliJ IDEA            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 17/06/2025 08:24:14 UTC
+ Last Updated on 18/06/2025 08:23:46 UTC
 <!--END_SECTION:waka-->
 
 ---
