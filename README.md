@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-892%20hrs%2054%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -72,7 +70,7 @@ Windows                  15 mins             ███████████�
 ```
 
 
- Last Updated on 14/10/2025 08:21:42 UTC
+ Last Updated on 15/10/2025 08:24:33 UTC
 <!--END_SECTION:waka-->
 
 ---
