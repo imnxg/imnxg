@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 > 📦 540.7 kB Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2025
+> 🏆 49 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 146 Public Repositories 
+> 📜 147 Public Repositories 
  > 
 > 🔑 20 Private Repositories 
  > 
@@ -60,19 +60,17 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JSON                     14 mins             ██████████████████████░░░   88.96 % 
-JavaScript               1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-yarn.lock                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+TypeScript               23 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-IntelliJ IDEA            15 mins             █████████████████████████   100.00 % 
+VS Code                  23 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+Windows                  23 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/10/2025 08:20:40 UTC
+ Last Updated on 21/10/2025 08:24:15 UTC
 <!--END_SECTION:waka-->
 
 ---
