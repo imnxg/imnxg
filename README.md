@@ -28,21 +28,21 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-925%20hrs%2029%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 540.9 kB Used in GitHub's Storage 
+> 📦 543.2 kB Used in GitHub's Storage 
  > 
-> 🏆 10 Contributions in the Year 2026
+> 🏆 12 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 153 Public Repositories 
+> 📜 154 Public Repositories 
  > 
-> 🔑 21 Private Repositories 
+> 🔑 22 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -60,22 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       3 hrs 44 mins       █████████████░░░░░░░░░░░░   53.18 % 
-TypeScript               1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Markdown                 49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.79 % 
-JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-Git Config               10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+Go                       5 hrs 16 mins       █████████████░░░░░░░░░░░░   50.99 % 
+TypeScript               3 hrs 2 mins        ███████░░░░░░░░░░░░░░░░░░   29.51 % 
+Markdown                 1 hr 2 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
+JavaScript               17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🔥 Editors: 
-Antigravity              6 hrs 51 mins       ████████████████████████░   97.54 % 
-VS Code                  10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+Antigravity              9 hrs 20 mins       ███████████████████████░░   90.40 % 
+VS Code                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
 
 💻 Operating System: 
-Windows                  7 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  10 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/03/2026 08:27:21 UTC
+ Last Updated on 02/03/2026 08:40:17 UTC
 <!--END_SECTION:waka-->
 
 ---
