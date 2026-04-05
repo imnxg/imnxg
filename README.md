@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-968%20hrs%2020%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -47,10 +47,10 @@ Here are some ideas to get you started:
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
-🌆 Daytime                168 commits         ████████░░░░░░░░░░░░░░░░░   33.53 % 
-🌃 Evening                201 commits         ██████████░░░░░░░░░░░░░░░   40.12 % 
-🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+🌞 Morning                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌆 Daytime                169 commits         ████████░░░░░░░░░░░░░░░░░   33.67 % 
+🌃 Evening                201 commits         ██████████░░░░░░░░░░░░░░░   40.04 % 
+🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
 ```
 
 
@@ -60,23 +60,23 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 57 mins       █████████████░░░░░░░░░░░░   52.61 % 
-TypeScript               1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   31.91 % 
-Markdown                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.84 % 
+Go                       2 hrs 57 mins       █████████████░░░░░░░░░░░░   53.92 % 
+TypeScript               1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.70 % 
+Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 3 mins        ██████████████████░░░░░░░   71.91 % 
-Unknown Editor           48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.49 % 
-VS Code                  45 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
+Antigravity              4 hrs 3 mins        ██████████████████░░░░░░░   73.70 % 
+Unknown Editor           48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
+VS Code                  37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
 
 💻 Operating System: 
-Windows                  5 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/04/2026 08:37:38 UTC
+ Last Updated on 05/04/2026 08:39:16 UTC
 <!--END_SECTION:waka-->
 
 ---
