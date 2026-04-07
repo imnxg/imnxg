@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 > 📦 543.2 kB Used in GitHub's Storage 
  > 
-> 🏆 16 Contributions in the Year 2026
+> 🏆 17 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 155 Public Repositories 
+> 📜 156 Public Repositories 
  > 
 > 🔑 24 Private Repositories 
  > 
@@ -60,23 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Go                       2 hrs 57 mins       █████████████░░░░░░░░░░░░   53.92 % 
-TypeScript               1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.70 % 
-Markdown                 24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
-Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
+Go                       2 hrs 33 mins       ██████████████░░░░░░░░░░░   57.13 % 
+TypeScript               1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   33.03 % 
+Other                    11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-Antigravity              4 hrs 3 mins        ██████████████████░░░░░░░   73.70 % 
-Unknown Editor           48 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.85 % 
-VS Code                  37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
+Antigravity              4 hrs 6 mins        ███████████████████████░░   91.42 % 
+VS Code                  23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
 
 💻 Operating System: 
-Windows                  5 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 29 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/04/2026 09:04:58 UTC
+ Last Updated on 07/04/2026 08:58:04 UTC
 <!--END_SECTION:waka-->
 
 ---
