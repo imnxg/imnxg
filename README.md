@@ -60,21 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               59 mins             ██████████████░░░░░░░░░░░   56.78 % 
-Go                       28 mins             ███████░░░░░░░░░░░░░░░░░░   26.69 % 
-Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.40 % 
-JavaScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript               1 hr                █████████████░░░░░░░░░░░░   51.15 % 
+Go                       28 mins             ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Other                    14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Bash                     8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
+JavaScript               6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
 
 🔥 Editors: 
-Antigravity              1 hr 45 mins        █████████████████████████   100.00 % 
+Antigravity              1 hr 45 mins        ██████████████████████░░░   88.86 % 
+VS Code                  13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
 
 💻 Operating System: 
-Windows                  1 hr 45 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/04/2026 09:52:24 UTC
+ Last Updated on 14/04/2026 09:14:30 UTC
 <!--END_SECTION:waka-->
 
 ---
