@@ -60,22 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    4 hrs 50 mins       ████████████░░░░░░░░░░░░░   46.08 % 
-Astro                    3 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-TypeScript               1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
-Markdown                 30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.91 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.16 % 
+Astro                    1 hr 20 mins        ████████████░░░░░░░░░░░░░   49.45 % 
+Other                    34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
+TypeScript               25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
+JavaScript               13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Markdown                 9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
 
 🔥 Editors: 
-Antigravity              5 hrs 43 mins       ██████████████░░░░░░░░░░░   54.39 % 
-VS Code                  4 hrs 47 mins       ███████████░░░░░░░░░░░░░░   45.61 % 
+Antigravity              1 hr 45 mins        ████████████████░░░░░░░░░   64.69 % 
+VS Code                  57 mins             █████████░░░░░░░░░░░░░░░░   35.31 % 
 
 💻 Operating System: 
-Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/04/2026 08:56:50 UTC
+ Last Updated on 27/04/2026 10:11:36 UTC
 <!--END_SECTION:waka-->
 
 ---
