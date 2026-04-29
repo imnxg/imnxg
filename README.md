@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-998%20hrs%208%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -60,22 +60,23 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    1 hr 28 mins        ████████░░░░░░░░░░░░░░░░░   32.50 % 
-Astro                    1 hr 20 mins        ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-TypeScript               47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
-Markdown                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
-JavaScript               13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Other                    1 hr 58 mins        ████████░░░░░░░░░░░░░░░░░   31.37 % 
+TypeScript               1 hr 26 mins        ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
+Markdown                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Go                       55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
+SQL                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.72 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 46 mins       ███████████████░░░░░░░░░░   61.36 % 
-Antigravity              1 hr 45 mins        ██████████░░░░░░░░░░░░░░░   38.64 % 
+VS Code                  6 hrs 13 mins       █████████████████████████   98.87 % 
+Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 💻 Operating System: 
-Windows                  4 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 28/04/2026 10:10:48 UTC
+ Last Updated on 29/04/2026 10:02:33 UTC
 <!--END_SECTION:waka-->
 
 ---
