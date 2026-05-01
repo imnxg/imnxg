@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C001%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C007%20hrs%2025%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -60,23 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 1 min         ███████████░░░░░░░░░░░░░░   42.70 % 
-Other                    2 hrs 30 mins       █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
-Markdown                 1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
-Go                       1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.53 % 
-SQL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 % 
+TypeScript               5 hrs 25 mins       ███████████░░░░░░░░░░░░░░   42.13 % 
+Other                    2 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
+Markdown                 2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
+Go                       1 hr 48 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+SQL                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 41 mins      █████████████████████████   99.39 % 
-Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-Antigravity              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  12 hrs 48 mins      █████████████████████████   99.46 % 
+Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 💻 Operating System: 
-Windows                  11 hrs 45 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 30/04/2026 10:03:54 UTC
+ Last Updated on 01/05/2026 09:43:12 UTC
 <!--END_SECTION:waka-->
 
 ---
