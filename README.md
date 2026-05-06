@@ -60,22 +60,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 3 mins        ████████████░░░░░░░░░░░░░   48.55 % 
-Go                       1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Markdown                 1 hr 36 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-Other                    1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
-SQL                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+TypeScript               3 hrs 59 mins       ███████████████░░░░░░░░░░   60.45 % 
+Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+Go                       52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+SQL                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 20 mins      █████████████████████████   99.34 % 
-Unknown Editor           4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
+VS Code                  6 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 24 mins      █████████████████████████   100.00 % 
+Windows                  6 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/05/2026 09:59:21 UTC
+ Last Updated on 06/05/2026 10:14:07 UTC
 <!--END_SECTION:waka-->
 
 ---
