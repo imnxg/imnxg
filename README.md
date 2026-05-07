@@ -60,21 +60,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 59 mins       ███████████████░░░░░░░░░░   60.45 % 
-Markdown                 53 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Go                       52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Other                    36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-SQL                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+Markdown                 31 mins             ████████████░░░░░░░░░░░░░   46.71 % 
+TypeScript               24 mins             █████████░░░░░░░░░░░░░░░░   35.93 % 
+Go                       5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
+Other                    4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+SQL                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 35 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 06/05/2026 10:14:07 UTC
+ Last Updated on 07/05/2026 10:21:29 UTC
 <!--END_SECTION:waka-->
 
 ---
