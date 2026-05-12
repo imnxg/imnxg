@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C009%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%207%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -60,20 +60,23 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 37 mins        ████████████████░░░░░░░░░   63.07 % 
-Go                       52 mins             █████████░░░░░░░░░░░░░░░░   34.13 % 
-Other                    4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.80 % 
+TypeScript               1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   37.46 % 
+Other                    1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+Go                       1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
+Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
 
 🔥 Editors: 
-Antigravity              1 hr 23 mins        ██████████████░░░░░░░░░░░   54.36 % 
-VS Code                  1 hr 10 mins        ███████████░░░░░░░░░░░░░░   45.64 % 
+VS Code                  3 hrs 6 mins        █████████████████░░░░░░░░   67.20 % 
+Antigravity              1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
+IntelliJ IDEA            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 💻 Operating System: 
-Windows                  2 hrs 34 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 11/05/2026 10:58:05 UTC
+ Last Updated on 12/05/2026 10:28:38 UTC
 <!--END_SECTION:waka-->
 
 ---
