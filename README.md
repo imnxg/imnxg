@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C011%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C013%20hrs%2011%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -60,23 +60,23 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 44 mins        █████████░░░░░░░░░░░░░░░░   37.46 % 
-Other                    1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-Go                       1 hr 5 mins         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Markdown                 22 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-YAML                     11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+TypeScript               1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.30 % 
+Other                    1 hr 33 mins        ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+Go                       1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 6 mins        █████████████████░░░░░░░░   67.20 % 
-Antigravity              1 hr 23 mins        ████████░░░░░░░░░░░░░░░░░   30.15 % 
-IntelliJ IDEA            7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
+VS Code                  4 hrs 17 mins       ██████████████████░░░░░░░   70.01 % 
+Antigravity              1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
+IntelliJ IDEA            26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 💻 Operating System: 
-Windows                  4 hrs 37 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 12/05/2026 10:28:38 UTC
+ Last Updated on 13/05/2026 10:22:07 UTC
 <!--END_SECTION:waka-->
 
 ---
