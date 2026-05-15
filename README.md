@@ -28,8 +28,6 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C014%20hrs%2041%20mins-blue?style=flat)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -44,39 +42,8 @@ Here are some ideas to get you started:
  > 
 > 🔑 26 Private Repositories 
  > 
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-🌆 Daytime                169 commits         ████████░░░░░░░░░░░░░░░░░   33.67 % 
-🌃 Evening                201 commits         ██████████░░░░░░░░░░░░░░░   40.04 % 
-🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Shanghai
-
-💬 Programming Languages: 
-TypeScript               1 hr 44 mins        ███████░░░░░░░░░░░░░░░░░░   28.12 % 
-Other                    1 hr 36 mins        ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-Go                       1 hr 5 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Markdown                 46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-YAML                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-
-🔥 Editors: 
-VS Code                  4 hrs 19 mins       ██████████████████░░░░░░░   70.21 % 
-Antigravity              1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-IntelliJ IDEA            26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-
-💻 Operating System: 
-Windows                  6 hrs 10 mins       █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 14/05/2026 10:12:07 UTC
+ Last Updated on 15/05/2026 10:19:12 UTC
 <!--END_SECTION:waka-->
 
 ---
