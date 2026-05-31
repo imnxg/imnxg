@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C028%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C031%20hrs%2018%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -44,8 +44,39 @@ Here are some ideas to get you started:
  > 
 > 🔑 26 Private Repositories 
  > 
+**I'm a Night 🦉** 
 
- Last Updated on 30/05/2026 09:56:47 UTC
+```text
+🌞 Morning                81 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
+🌆 Daytime                169 commits         ████████░░░░░░░░░░░░░░░░░   33.67 % 
+🌃 Evening                201 commits         ██████████░░░░░░░░░░░░░░░   40.04 % 
+🌙 Night                  51 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+TypeScript               10 hrs 31 mins      ███████████░░░░░░░░░░░░░░   43.99 % 
+Go                       6 hrs 10 mins       ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
+JavaScript               3 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.76 % 
+Markdown                 1 hr 57 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+JSON                     52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+
+🔥 Editors: 
+VS Code                  13 hrs 5 mins       ██████████████░░░░░░░░░░░   54.70 % 
+Codex CLI                9 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   37.82 % 
+IntelliJ IDEA            1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
+
+💻 Operating System: 
+Windows                  23 hrs 56 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 31/05/2026 10:12:21 UTC
 <!--END_SECTION:waka-->
 
 ---
