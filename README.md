@@ -60,22 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               3 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.17 % 
-TypeScript               2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.84 % 
-Markdown                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.82 % 
-Go                       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
-JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+JavaScript               3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   30.59 % 
+TypeScript               2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   24.34 % 
+Markdown                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   18.68 % 
+Go                       57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.65 % 
+JSON                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 🔥 Editors: 
-Codex CLI                9 hrs 3 mins        ██████████████████████░░░   86.50 % 
-IntelliJ IDEA            1 hr 24 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.50 % 
+Codex CLI                9 hrs 3 mins        ███████████████████████░░   90.68 % 
+IntelliJ IDEA            55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 💻 Operating System: 
-Windows                  10 hrs 27 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 02/06/2026 12:01:59 UTC
+ Last Updated on 03/06/2026 12:39:20 UTC
 <!--END_SECTION:waka-->
 
 ---
