@@ -60,22 +60,20 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-JavaScript               1 hr 27 mins        █████████████░░░░░░░░░░░░   51.89 % 
-TypeScript               46 mins             ███████░░░░░░░░░░░░░░░░░░   27.44 % 
-JSON                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.08 % 
-Markdown                 14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 20 mins             █████████████░░░░░░░░░░░░   51.23 % 
+TypeScript               12 mins             ████████░░░░░░░░░░░░░░░░░   32.28 % 
+JavaScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
 
 🔥 Editors: 
-Codex CLI                2 hrs 46 mins       █████████████████████████   98.61 % 
-IntelliJ IDEA            2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Codex CLI                40 mins             █████████████████████████   99.79 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  2 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 05/06/2026 11:25:01 UTC
+ Last Updated on 06/06/2026 10:00:20 UTC
 <!--END_SECTION:waka-->
 
 ---
