@@ -28,6 +28,8 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C033%20hrs%205%20mins-blue?style=flat)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -58,21 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Bash                     1 hr                ███████████████████████░░   90.52 % 
-TypeScript               6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+TypeScript               7 hrs 10 mins       ██████████░░░░░░░░░░░░░░░   40.14 % 
+Markdown                 5 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   30.35 % 
+Go                       3 hrs 34 mins       █████░░░░░░░░░░░░░░░░░░░░   20.04 % 
+Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+SQL                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🔥 Editors: 
-Codex CLI                1 hr                ███████████████████████░░   90.52 % 
-VS Code                  6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+VS Code                  16 hrs 47 mins      ███████████████████████░░   93.96 % 
+Codex CLI                1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+Windows                  17 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 07/06/2026 10:25:58 UTC
+ Last Updated on 08/06/2026 12:25:41 UTC
 <!--END_SECTION:waka-->
 
 ---
