@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C060%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%201%20min-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 > 📦 543.6 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2026
+> 🏆 21 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 157 Public Repositories 
+> 📜 158 Public Repositories 
  > 
 > 🔑 26 Private Repositories 
  > 
@@ -60,22 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               12 hrs 5 mins       ██████████░░░░░░░░░░░░░░░   39.66 % 
-Markdown                 8 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   28.54 % 
-Go                       7 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.95 % 
-Bash                     1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
-SQL                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.26 % 
+TypeScript               11 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   40.82 % 
+Markdown                 8 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
+Go                       7 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
+SQL                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
+JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 23 mins      ████████████████████████░   96.46 % 
-Codex CLI                1 hr 4 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
+VS Code                  29 hrs 17 mins      █████████████████████████   99.78 % 
+Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-Windows                  30 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  29 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/06/2026 10:25:34 UTC
+ Last Updated on 14/06/2026 10:47:13 UTC
 <!--END_SECTION:waka-->
 
 ---
