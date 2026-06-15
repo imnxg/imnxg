@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2023%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -60,22 +60,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               11 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   40.82 % 
-Markdown                 8 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-Go                       7 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.94 % 
-SQL                      23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+TypeScript               6 hrs 19 mins       ███████████░░░░░░░░░░░░░░   42.29 % 
+Go                       5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   34.58 % 
+Markdown                 3 hrs 16 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+SQL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 🔥 Editors: 
-VS Code                  29 hrs 17 mins      █████████████████████████   99.78 % 
-Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+VS Code                  14 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  29 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 14/06/2026 10:47:13 UTC
+ Last Updated on 15/06/2026 13:51:28 UTC
 <!--END_SECTION:waka-->
 
 ---
