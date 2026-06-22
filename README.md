@@ -60,19 +60,19 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 21 mins       █████████████████░░░░░░░░   67.80 % 
-Go                       1 hr 1 min          ███████░░░░░░░░░░░░░░░░░░   29.32 % 
-JSON                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
+TypeScript               1 hr 41 mins        ██████████████████████░░░   88.61 % 
+Go                       10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.31 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 54 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 54 mins        █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 21/06/2026 11:13:48 UTC
+ Last Updated on 22/06/2026 13:32:32 UTC
 <!--END_SECTION:waka-->
 
 ---
