@@ -60,18 +60,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               56 mins             █████████████████████░░░░   84.51 % 
-Go                       10 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
+TypeScript               4 hrs 12 mins       ████████████████░░░░░░░░░   62.24 % 
+Markdown                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.12 % 
+Microsoft Visual Studio S50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
+C#                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.74 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🔥 Editors: 
-VS Code                  1 hr 6 mins         █████████████████████████   100.00 % 
+VS Code                  6 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
+Windows                  6 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 26/06/2026 10:47:55 UTC
+ Last Updated on 27/06/2026 10:03:02 UTC
 <!--END_SECTION:waka-->
 
 ---
