@@ -60,21 +60,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               3 hrs 46 mins       ██████████████░░░░░░░░░░░   56.80 % 
-Markdown                 1 hr 21 mins        █████░░░░░░░░░░░░░░░░░░░░   20.46 % 
-Microsoft Visual Studio S50 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-C#                       35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
-Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+TypeScript               2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   45.94 % 
+Markdown                 1 hr 21 mins        ██████░░░░░░░░░░░░░░░░░░░   25.61 % 
+Microsoft Visual Studio S50 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
+C#                       35 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.98 % 
+Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 39 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 19 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 29/06/2026 12:28:22 UTC
+ Last Updated on 30/06/2026 10:54:42 UTC
 <!--END_SECTION:waka-->
 
 ---
