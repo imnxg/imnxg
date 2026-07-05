@@ -36,11 +36,11 @@ Here are some ideas to get you started:
 
 > 📦 543.6 kB Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2026
+> 🏆 22 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 158 Public Repositories 
+> 📜 159 Public Repositories 
  > 
 > 🔑 26 Private Repositories 
  > 
@@ -60,19 +60,21 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C#                       15 mins             █████████████████████░░░░   82.14 % 
-Git Config               3 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TypeScript               2 hrs 25 mins       █████████████████░░░░░░░░   68.15 % 
+Markdown                 59 mins             ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+JavaScript               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-VS Code                  19 mins             █████████████████████████   100.00 % 
+Antigravity Desktop      2 hrs 57 mins       █████████████████████░░░░   82.70 % 
+VS Code                  37 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.30 % 
 
 💻 Operating System: 
-Windows                  19 mins             █████████████████████████   100.00 % 
+Windows                  3 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 04/07/2026 10:05:44 UTC
+ Last Updated on 05/07/2026 10:08:32 UTC
 <!--END_SECTION:waka-->
 
 ---
