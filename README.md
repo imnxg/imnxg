@@ -60,17 +60,22 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               3 hrs 58 mins       ██████████████░░░░░░░░░░░   57.33 % 
+Python                   2 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   32.17 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
+Go                       13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  6 hrs 26 mins       ███████████████████████░░   93.02 % 
+Antigravity Desktop      29 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 20/07/2026 10:47:51 UTC
+ Last Updated on 21/07/2026 10:22:47 UTC
 <!--END_SECTION:waka-->
 
 ---
