@@ -62,47 +62,45 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               2 hrs 20 mins       ███████████████░░░░░░░░░░   60.38 % 
-Other                    41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.70 % 
-Go                       39 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-JSON                     9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+TypeScript               1 hr 40 mins        ████████████████░░░░░░░░░   62.91 % 
+Go                       39 mins             ██████░░░░░░░░░░░░░░░░░░░   24.45 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Other                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 32 mins       ███████████████████████░░   91.46 % 
-Antigravity Desktop      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+VS Code                  2 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 40 mins (94.94%)
+⏱ AI Coding Time: 2 hrs 39 mins (99.55%)
 
-✍️ 729 lines written by AI, 8 lines written by hand (98.91% AI-written)
+✍️ 1,390 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 14,868,702 Input Tokens, 53,890 Output Tokens
+🔤 14,796,026 Input Tokens, 62,333 Output Tokens
 
-💵 $75.96 Estimated AI Cost This Week
+💵 $75.85 Estimated AI Cost This Week
 
-🧠 19 AI Sessions, 40 AI Prompts
+🧠 15 AI Sessions, 21 AI Prompts
 
-C                        442 lines           ███████████████░░░░░░░░░░   58.93 % 
-Cb                       228 lines           ████████░░░░░░░░░░░░░░░░░   30.40 % 
-Gemini                   80 lines            ███░░░░░░░░░░░░░░░░░░░░░░   10.67 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      936 lines           ███████████████░░░░░░░░░░   61.78 % 
+C                        442 lines           ███████░░░░░░░░░░░░░░░░░░   29.17 % 
+Cb                       137 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.91% of written lines came from AI
-📚 Verbose Prompter — average 1,729 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 1.06% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 3,191 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/07/2026 10:31:15 UTC
+ Last Updated on 29/07/2026 10:35:39 UTC
 <!--END_SECTION:waka-->
 
 ---
