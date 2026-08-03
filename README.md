@@ -28,9 +28,9 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C123%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C126%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-143%20hrs%2016%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-145%20hrs%2028%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-471.48%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -62,48 +62,47 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               5 hrs 56 mins       ██████████████████░░░░░░░   73.71 % 
-Markdown                 1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
-JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               5 hrs 23 mins       ██████████████░░░░░░░░░░░   55.52 % 
+Markdown                 2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+JSON                     1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Go                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
+TSConfig                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 20 mins       █████████████████░░░░░░░░   66.10 % 
-Antigravity Desktop      2 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   33.90 % 
+VS Code                  6 hrs 58 mins       ██████████████████░░░░░░░   71.81 % 
+Antigravity Desktop      2 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.19 % 
 
 💻 Operating System: 
-Windows                  8 hrs 4 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 59 mins (99.13%)
+⏱ AI Coding Time: 9 hrs 5 mins (93.69%)
 
-✍️ 1,923 lines written by AI, 63 lines written by hand (96.83% AI-written)
+✍️ 1,502 lines written by AI, 229 lines written by hand (86.77% AI-written)
 
-🔤 6,870,975 Input Tokens, 41,508 Output Tokens
+🔤 21,776,984 Input Tokens, 145,552 Output Tokens
 
-💵 $35.60 Estimated AI Cost This Week
+💵 $113.25 Estimated AI Cost This Week
 
-🧠 16 AI Sessions, 109 AI Prompts
+🧠 17 AI Sessions, 132 AI Prompts
 
-GPT                      1,002 lines         ████████████░░░░░░░░░░░░░   46.43 % 
-Gemini                   544 lines           ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
-C                        438 lines           █████░░░░░░░░░░░░░░░░░░░░   20.30 % 
-Antigravity-Desktop      103 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.77 % 
-Sonnet                   71 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+GPT                      1,002 lines         ███████████████░░░░░░░░░░   58.26 % 
+Gemini                   544 lines           ████████░░░░░░░░░░░░░░░░░   31.63 % 
+Antigravity-Desktop      103 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Sonnet                   71 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.83% of written lines came from AI
-📄 Detailed Prompter — average 509 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 2.88% of changed lines were hand-edited
+🤖 AI-Driven — 86.77% of written lines came from AI
+📝 Concise Prompter — average 365 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🚀 High AI Trust — 12.38% of changed lines were hand-edited
 ```
 
 
- Last Updated on 02/08/2026 09:52:51 UTC
+ Last Updated on 03/08/2026 11:18:36 UTC
 <!--END_SECTION:waka-->
 
 ---
