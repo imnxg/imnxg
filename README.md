@@ -62,43 +62,43 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 44 mins       ████████████░░░░░░░░░░░░░   48.20 % 
-TypeScript               6 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   33.26 % 
-Markdown                 2 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.22 % 
-JavaScript               18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Other                    5 hrs 23 mins       ██████████████████░░░░░░░   72.24 % 
+TypeScript               1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
+JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
+Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-VS Code                  18 hrs 7 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  18 hrs 7 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 17 hrs 15 mins (95.2%)
+⏱ AI Coding Time: 7 hrs 26 mins (99.68%)
 
-✍️ 0 lines written by AI, 149 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 29,268,855 Input Tokens, 907,860 Output Tokens
+🔤 17,227,685 Input Tokens, 322,854 Output Tokens
 
-💵 $75.78 Estimated AI Cost This Week
+💵 $26.45 Estimated AI Cost This Week
 
-🧠 43 AI Sessions, 161 AI Prompts
+🧠 21 AI Sessions, 62 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📄 Detailed Prompter — average 678 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📄 Detailed Prompter — average 751 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 16/08/2026 08:23:53 UTC
+ Last Updated on 17/08/2026 08:38:08 UTC
 <!--END_SECTION:waka-->
 
 ---
