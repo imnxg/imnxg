@@ -62,43 +62,42 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    5 hrs 23 mins       ██████████████████░░░░░░░   72.24 % 
-TypeScript               1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-JSON                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.22 % 
-JavaScript               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Markdown                 6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Other                    2 hrs 22 mins       ████████████████░░░░░░░░░   64.62 % 
+TypeScript               43 mins             █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+JSON                     27 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.36 % 
+Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🔥 Editors: 
-VS Code                  7 hrs 28 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 26 mins (99.68%)
+⏱ AI Coding Time: 3 hrs 40 mins (99.9%)
 
 ✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
 
-🔤 17,227,685 Input Tokens, 322,854 Output Tokens
+🔤 8,538,892 Input Tokens, 173,208 Output Tokens
 
-💵 $26.45 Estimated AI Cost This Week
+💵 $11.89 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 62 AI Prompts
+🧠 11 AI Sessions, 37 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
-📄 Detailed Prompter — average 751 characters per prompt
+📝 Concise Prompter — average 453 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 17/08/2026 08:38:08 UTC
+ Last Updated on 18/08/2026 08:31:24 UTC
 <!--END_SECTION:waka-->
 
 ---
