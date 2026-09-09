@@ -62,45 +62,45 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               4 hrs               █████████████████████░░░░   85.91 % 
-Go                       15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
-Git Config               12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
-GitIgnore file           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+TypeScript               1 hr 15 mins        ██████████████████░░░░░░░   72.19 % 
+Git Config               12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+GitIgnore file           11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Codex Vscode             4 hrs 13 mins       ███████████████████████░░   90.83 % 
-IntelliJ IDEA            13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
-VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 % 
+Codex Vscode             1 hr 19 mins        ███████████████████░░░░░░   75.54 % 
+IntelliJ IDEA            13 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.46 % 
+VS Code                  12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
 
 💻 Operating System: 
-Windows                  4 hrs 39 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 38 mins (99.76%)
+⏱ AI Coding Time: 1 hr 44 mins (99.36%)
 
-✍️ 1,010 lines written by AI, 2 lines written by hand (99.8% AI-written)
+✍️ 210 lines written by AI, 2 lines written by hand (99.06% AI-written)
 
-🔤 3,230,790 Input Tokens, 212,705 Output Tokens
+🔤 1,143,870 Input Tokens, 67,313 Output Tokens
 
-💵 $2.71 Estimated AI Cost This Week
+💵 $0.84 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 41 AI Prompts
+🧠 4 AI Sessions, 15 AI Prompts
 
-GPT                      1,048 lines         █████████████████████████   100.00 % 
+GPT                      220 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.8% of written lines came from AI
-📄 Detailed Prompter — average 834 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.19% of changed lines were hand-edited
+🤖 AI-Driven — 99.06% of written lines came from AI
+📄 Detailed Prompter — average 1,405 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.9% of changed lines were hand-edited
 ```
 
 
- Last Updated on 08/09/2026 12:35:54 UTC
+ Last Updated on 09/09/2026 12:41:37 UTC
 <!--END_SECTION:waka-->
 
 ---
