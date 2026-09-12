@@ -62,45 +62,23 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               20 mins             ██████████░░░░░░░░░░░░░░░   41.14 % 
-Git Config               12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
-GitIgnore file           11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
-Go                       5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             23 mins             ████████████░░░░░░░░░░░░░   48.22 % 
-IntelliJ IDEA            13 mins             ███████░░░░░░░░░░░░░░░░░░   26.36 % 
-VS Code                  12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.42 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (98.65%)
-
-✍️ 48 lines written by AI, 2 lines written by hand (96.0% AI-written)
-
-🔤 161,207 Input Tokens, 19,006 Output Tokens
-
-💵 $0.12 Estimated AI Cost This Week
-
-🧠 3 AI Sessions, 5 AI Prompts
-
-GPT                      51 lines            █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 96.0% of written lines came from AI
-📚 Verbose Prompter — average 2,220 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 3.77% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/09/2026 12:33:00 UTC
+ Last Updated on 12/09/2026 11:57:06 UTC
 <!--END_SECTION:waka-->
 
 ---
