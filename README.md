@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 **🐱 My GitHub Data** 
 
-> 📦 551.1 kB Used in GitHub's Storage 
+> 📦 551.2 kB Used in GitHub's Storage 
  > 
 > 🏆 39 Contributions in the Year 2026
  > 
@@ -62,44 +62,44 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 27 mins             ████████████████░░░░░░░░░   64.94 % 
-Docker                   11 mins             ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-Git Config               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Go                       3 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.47 % 
+TypeScript               2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Python                   1 hr 32 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+YAML                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🔥 Editors: 
-VS Code                  39 mins             ████████████████████████░   94.96 % 
-Codex Vscode             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Codex Vscode             7 hrs 59 mins       ████████████████████████░   97.43 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  8 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 mins (6.57%)
+⏱ AI Coding Time: 8 hrs 5 mins (98.68%)
 
-✍️ 0 lines written by AI, 11 lines written by hand (0.0% AI-written)
+✍️ 3,544 lines written by AI, 11 lines written by hand (99.69% AI-written)
 
-🔤 10,348 Input Tokens, 310 Output Tokens
+🔤 7,329,160 Input Tokens, 352,655 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $15.18 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 2 AI Prompts
+🧠 20 AI Sessions, 77 AI Prompts
 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      3,750 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 2,770 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.69% of written lines came from AI
+📄 Detailed Prompter — average 1,088 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.29% of changed lines were hand-edited
 ```
 
 
- Last Updated on 23/09/2026 13:18:37 UTC
+ Last Updated on 24/09/2026 13:08:22 UTC
 <!--END_SECTION:waka-->
 
 ---
