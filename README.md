@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C154%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C155%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2045%20mins-blue?style=flat)
 
@@ -62,26 +62,26 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   1 hr 12 mins        ████████░░░░░░░░░░░░░░░░░   30.24 % 
-Go                       1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   26.09 % 
-Markdown                 33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Bash                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.08 % 
+Python                   1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   27.25 % 
+Go                       1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+TypeScript               47 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+Markdown                 38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Bash                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
 
 🔥 Editors: 
-Codex Vscode             2 hrs 6 mins        █████████████░░░░░░░░░░░░   52.94 % 
-VS Code                  1 hr 52 mins        ████████████░░░░░░░░░░░░░   47.06 % 
+VS Code                  2 hrs 19 mins       █████████████░░░░░░░░░░░░   52.28 % 
+Codex Vscode             2 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.72 % 
 
 💻 Operating System: 
-Windows                  3 hrs 59 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 32 mins (63.51%)
+⏱ AI Coding Time: 2 hrs 32 mins (57.24%)
 
-✍️ 906 lines written by AI, 114 lines written by hand (88.82% AI-written)
+✍️ 906 lines written by AI, 126 lines written by hand (87.79% AI-written)
 
 🔤 1,015,572 Input Tokens, 69,447 Output Tokens
 
@@ -92,14 +92,14 @@ Windows                  3 hrs 59 mins       ███████████�
 GPT                      941 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 88.82% of written lines came from AI
+🤖 AI-Driven — 87.79% of written lines came from AI
 📚 Verbose Prompter — average 3,115 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 11.64% of changed lines were hand-edited
+🚀 High AI Trust — 14.06% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 13:30:32 UTC
+ Last Updated on 28/09/2026 16:24:55 UTC
 <!--END_SECTION:waka-->
 
 ---
