@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C156%20hrs%2017%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C157%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2045%20mins-blue?style=flat)
 
@@ -62,39 +62,44 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 49 mins             ███████████████████████░░   90.75 % 
-TypeScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Markdown                 1 hr 2 mins         ███████████░░░░░░░░░░░░░░   45.84 % 
+TypeScript               1 hr                ███████████░░░░░░░░░░░░░░   44.61 % 
+JSON                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-VS Code                  54 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 46 mins        ████████████████████░░░░░   78.67 % 
+Antigravity Desktop      28 mins             █████░░░░░░░░░░░░░░░░░░░░   21.33 % 
 
 💻 Operating System: 
-Windows                  54 mins             █████████████████████████   100.00 % 
+Windows                  2 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.02%)
+⏱ AI Coding Time: 48 mins (35.93%)
 
-✍️ 0 lines written by AI, 137 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 138 lines written by hand (0.0% AI-written)
 
-🔤 0 Input Tokens, 0 Output Tokens
+🔤 247,654 Input Tokens, 22,849 Output Tokens
 
-💵 $0.00 Estimated AI Cost This Week
+💵 $1.04 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 19 AI Prompts
+🧠 3 AI Sessions, 25 AI Prompts
+
+Antigravity-Desktop      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📚 Verbose Prompter — average 5,436 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
+📚 Verbose Prompter — average 4,157 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/10/2026 15:02:24 UTC
+ Last Updated on 08/10/2026 15:10:44 UTC
 <!--END_SECTION:waka-->
 
 ---
