@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 💬 Programming Languages: 
 TypeScript               1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   33.85 % 
-Other                    1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.30 % 
+Other                    1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
 Markdown                 1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
 Go                       49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
 JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
@@ -88,7 +88,7 @@ Windows                  5 hrs 20 mins       ███████████�
 
 💵 $10.88 Estimated AI Cost This Week
 
-🧠 21 AI Sessions, 63 AI Prompts
+🧠 19 AI Sessions, 44 AI Prompts
 
 Gemini                   1,407 lines         ██████████████████░░░░░░░   71.06 % 
 GPT                      573 lines           ███████░░░░░░░░░░░░░░░░░░   28.94 % 
@@ -96,13 +96,13 @@ Antigravity-Desktop      0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 93.48% of written lines came from AI
-📚 Verbose Prompter — average 2,496 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 1,227 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 6.82% of changed lines were hand-edited
 ```
 
 
- Last Updated on 12/10/2026 17:18:35 UTC
+ Last Updated on 13/10/2026 15:32:39 UTC
 <!--END_SECTION:waka-->
 
 ---
