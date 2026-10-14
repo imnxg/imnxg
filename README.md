@@ -62,27 +62,27 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               1 hr 48 mins        ████████░░░░░░░░░░░░░░░░░   33.85 % 
-Other                    1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   27.29 % 
-Markdown                 1 hr 2 mins         █████░░░░░░░░░░░░░░░░░░░░   19.39 % 
-Go                       49 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
+TypeScript               1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   38.89 % 
+Other                    1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   32.88 % 
+Go                       49 mins             █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+Markdown                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 🔥 Editors: 
-Antigravity Desktop      2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.56 % 
-VS Code                  2 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.48 % 
-Codex Vscode             1 hr 7 mins         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
+Antigravity Desktop      2 hrs 6 mins        ████████████░░░░░░░░░░░░░   47.65 % 
+VS Code                  1 hr 12 mins        ███████░░░░░░░░░░░░░░░░░░   27.10 % 
+Codex Vscode             1 hr 7 mins         ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
 
 💻 Operating System: 
-Windows                  5 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 53 mins (72.9%)
+⏱ AI Coding Time: 3 hrs 53 mins (87.82%)
 
-✍️ 1,980 lines written by AI, 138 lines written by hand (93.48% AI-written)
+✍️ 1,980 lines written by AI, 1 lines written by hand (99.95% AI-written)
 
 🔤 3,942,436 Input Tokens, 132,975 Output Tokens
 
@@ -95,14 +95,14 @@ GPT                      573 lines           ███████░░░░�
 Antigravity-Desktop      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 93.48% of written lines came from AI
+🤖 AI-Driven — 99.95% of written lines came from AI
 📄 Detailed Prompter — average 1,227 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 6.82% of changed lines were hand-edited
+🚀 High AI Trust — 0.25% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/10/2026 15:32:39 UTC
+ Last Updated on 14/10/2026 13:17:43 UTC
 <!--END_SECTION:waka-->
 
 ---
