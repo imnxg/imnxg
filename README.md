@@ -62,44 +62,23 @@ Here are some ideas to get you started:
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    54 mins             █████████░░░░░░░░░░░░░░░░   35.72 % 
-Go                       49 mins             ████████░░░░░░░░░░░░░░░░░   32.60 % 
-TypeScript               47 mins             ████████░░░░░░░░░░░░░░░░░   31.67 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Codex Vscode             1 hr 7 mins         ███████████░░░░░░░░░░░░░░   44.30 % 
-Antigravity Desktop      1 hr 5 mins         ███████████░░░░░░░░░░░░░░   43.46 % 
-VS Code                  18 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 31 mins (100.0%)
-
-✍️ 1,980 lines written by AI, 0 lines written by hand (100.0% AI-written)
-
-🔤 3,634,087 Input Tokens, 107,782 Output Tokens
-
-💵 $9.62 Estimated AI Cost This Week
-
-🧠 14 AI Sessions, 28 AI Prompts
-
-Gemini                   1,407 lines         ██████████████████░░░░░░░   71.06 % 
-GPT                      573 lines           ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 1,703 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 16/10/2026 12:59:39 UTC
+ Last Updated on 17/10/2026 11:57:43 UTC
 <!--END_SECTION:waka-->
 
 ---
